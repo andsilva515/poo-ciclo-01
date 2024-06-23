@@ -1,4 +1,4 @@
-# Atividade 01 - Compartilhando código - Git/Github
+# Atividade - Compartilhando código - Git/Github
 ============================================
 
 Objetivos
