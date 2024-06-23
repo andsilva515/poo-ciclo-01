@@ -1,8 +1,8 @@
-# Atividade - Compartilhando código - Git/Github
+# Atividade 01 - Compartilhando código - Git/Github
 ============================================
-Ciclo I
 
 Objetivos
+
 - Criar a nossa primeira classe java;
 - Aprender sobre Git e Github;
 - Compartilhar um código com os colegas.
